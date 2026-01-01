@@ -1,8 +1,8 @@
-# Claude 中文版使用指南：2026年最先进的 Claude 4.5 模型
+# Claude 中文版使用指南：2025年最先进的 Claude 4.5 模型
 
-Claude(克劳德) 作为 Anthropic 团队开发的旗舰级语言模型，以其卓越的安全性和强大的对话能力而闻名。Claude 在理解复杂语境、长文本处理和代码编写方面表现出色，被广泛认为是 AI 技术的顶尖代表。本文将详细介绍如何在中国大陆方便地使用 Claude，目前其最前沿的模型为 Claude 4.5 Sonnet。
+**更新时间：2025年1月1日**
 
-🚀2026年1月1 日更新
+Claude(克劳德) 作为 Anthropic 团队开发的旗舰级语言模型，以其卓越的安全性和强大的对话能力而闻名。Claude 在理解复杂语境、长文本处理和代码编写方面表现出色，被广泛认为是 AI 技术的顶尖代表。本文将详细介绍如何在中国大陆方便地使用 Claude，目前其最前沿的模型为 Claude 4.5 Sonnet/Opus。
 
 **Claude 4.5 已正式上线！！国内也能使用~**
 
@@ -28,9 +28,10 @@ Claude 中文版 是 Anthropic 的 Claude 模型的中文使用版本，专为�
 
 - **[chat.aimirror123.com](https://chat.aimirror123.com)** - Claude 中文版，支持 Claude-4、Claude-3.7、GPT-o1、o3及Grok-3，支持 AI绘画，扫码就能用~
 - **[chat.write360.cn](https://chat.write360.cn)** - Claude 中文站，支持 Claude 4 sonnet、Grok 3、GPT-4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~
-- **[chat.aimirror123.com](https://chat.aimirror123.com)** - Claude 镜像网站，支持 Claude-4、Claude-3.7、GPT-o1、o3及Grok-3，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
-- **[chat.write360.cn](https://chat.write360.cn)** - ChatGPT 镜像网站，支持 GPT4、4o 及o系列（o1、o3、o4）所有顶尖模型~
-- **[chat.aimirror123.com](https://chat.aimirror123.com)** - 免费ChatGPT，支持 GPT4、4o，Plus、Pro所有模型~
+- **[grok-tool.com](https://grok-tool.com)** - Claude 镜像网站，支持 Claude-4、Claude-3.7、GPT-o1、o3及Grok-3，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
+- **[chatgpt-mirror.com](https://chatgpt-mirror.com)** - ChatGPT 镜像网站，支持 GPT4、4o 及o系列（o1、o3、o4）所有顶尖模型~
+- **[gemini-tool.com](https://gemini-tool.com)** - Gemini 镜像网站，支持 Gemini Pro、Gemini Ultra 等模型~
+- **[aicnbox.com](https://aicnbox.com)** - AI工具箱，集成多种AI模型，支持GPT、Claude、Gemini等~
 
 ### 3、为什么选择 Claude 中文版？
 - **中文支持：** 深谙中文语境，提供无缝的中文交互体验
